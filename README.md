@@ -7,7 +7,7 @@ This repo houses:
 ✔ GUI controller code
 ✔ Vision-based control code
 
-🚀 **Project Overview**
+🚀 ##Project Overview
 
 This project demonstrates a full robotics stack from perception → planning → actuation.
 
@@ -59,7 +59,7 @@ Mapping gestures → joint commands
 
 Pixel → world coordinate transformation
 
-🧠 **Core Features**
+🧠 ## Core Features
 
 1. *Vision Features*
 
@@ -88,5 +88,5 @@ Jitter suppression & smoothing
 Emergency stop override
 
 Optional Kalman filter for smoothing
-
+                
 Automatic reach & grasp positioning
