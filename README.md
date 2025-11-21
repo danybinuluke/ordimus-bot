@@ -88,3 +88,28 @@ Jitter suppression & smoothing
 Emergency stop override
                 
 Automatic reach & grasp positioning
+
+
+## Ways to Use the Robot
+
+*If you want to manually control the robot using our GUI*, then
+
+Upload the gui_arduino_insert.ino into the Arduino and then run the code robot_slider_gui.py for visualizing the GUI.
+
+
+*If you want to control the Robot using Mediapipe*, then
+
+Upload the arduino_main.ino into the Arduino and then run the code python.py to control it using your Hands.
+
+
+
+The following Gestures are used to control the robot:
+
+Pinch - Gripper
+Three Fingers - Pronation Supination
+Peace gesture - Flexion Extension
+Point gesture - Elbow
+Open -  Shoulder
+Fist - Base
+
+
