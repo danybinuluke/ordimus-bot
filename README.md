@@ -12,6 +12,7 @@ This repo houses:
 This project demonstrates a full robotics stack from perception → planning → actuation.
 
 Includes three major subsystems:
+
 1️. Arduino Motion Controller (Firmware)
 
 Handles:
