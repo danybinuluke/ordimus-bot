@@ -7,13 +7,13 @@ This repo houses:
 ✔ GUI controller code
 ✔ Vision-based control code
 
-🚀 *Project Overview*
+🚀 **Project Overview**
 
 This project demonstrates a full robotics stack from perception → planning → actuation.
 
 Includes three major subsystems:
 
-1️. Arduino Motion Controller (Firmware)
+1️. *Arduino Motion Controller (Firmware)*
 
 Handles:
 
@@ -29,7 +29,7 @@ Smooth movement via angle interpolation
 
 Serial communication with GUI & CV modules
 
-2️. Desktop GUI Controller
+2️. *Desktop GUI Controller*
 
 A standalone GUI (Python/PyQt / Tkinter / Processing / etc.) enabling:
 
@@ -47,7 +47,7 @@ Servo offset calibration
 
 Emergency stop & reset
 
-3️. OpenCV + MediaPipe Vision Control
+3️. *OpenCV + MediaPipe Vision Control*
 
 This subsystem allows hands-free or object-based control of the robotic arm:
 
@@ -59,9 +59,9 @@ Mapping gestures → joint commands
 
 Pixel → world coordinate transformation
 
-🧠 *Core Features*
+🧠 **Core Features**
 
-1. Vision Features
+1. *Vision Features*
 
 Hand tracking (MediaPipe Hands)
 
@@ -73,7 +73,7 @@ Pose estimation
 
 Real-time camera feed calibration
 
-2. Motion Features
+2. *Motion Features*
 
 Linear interpolation between poses
 
