@@ -86,7 +86,5 @@ Motion playback and sequencing
 Jitter suppression & smoothing
 
 Emergency stop override
-
-Optional Kalman filter for smoothing
                 
 Automatic reach & grasp positioning
