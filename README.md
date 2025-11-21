@@ -7,7 +7,7 @@ This repo houses:
 ✔ GUI controller code
 ✔ Vision-based control code
 
-🚀 ##Project Overview
+🚀 ## Project Overview
 
 This project demonstrates a full robotics stack from perception → planning → actuation.
 
