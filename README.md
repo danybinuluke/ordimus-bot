@@ -106,10 +106,15 @@ Upload the arduino_main.ino into the Arduino and then run the code python.py to 
 The following Gestures are used to control the robot:
 
 Pinch - Gripper
+
 Three Fingers - Pronation Supination
+
 Peace gesture - Flexion Extension
+
 Point gesture - Elbow
+
 Open -  Shoulder
+
 Fist - Base
 
 
