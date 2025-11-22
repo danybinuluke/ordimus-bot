@@ -90,7 +90,7 @@ Emergency stop override
 Automatic reach & grasp positioning
 
 
-## Ways to Use the Robot
+## Ways to control the Robot
 
 *If you want to manually control the robot using our GUI*, then
 
