@@ -1,5 +1,17 @@
 # Ordimus Bot - Your Pick-and-Place Robot
 
+## 🎥 Demo Videos
+
+### Gesture-Controlled Operation
+Demonstrates real-time hand gesture recognition using MediaPipe and OpenCV to control a 6-DOF robotic arm.
+
+[![Gesture Controlled Robotic Arm Demo](https://img.youtube.com/vi/fAwbggBrApI/0.jpg)](https://youtu.be/fAwbggBrApI)
+
+### Teach-and-Playback Mode
+Shows recording of joint configurations and automatic replay of pick-and-place trajectories.
+
+[![Robotic Arm Playback Demo](https://img.youtube.com/vi/_ARJO0xC_gk/0.jpg)](https://youtu.be/_ARJO0xC_gk)
+
 A complete multi-modal robotic arm platform combining Arduino-based servo control, a custom-built desktop GUI for manual operation & motion recording, and a computer-vision controller using OpenCV + MediaPipe for gesture-based or vision-based automation.
 
 This repo houses:
@@ -88,6 +100,7 @@ Jitter suppression & smoothing
 Emergency stop override
                 
 Automatic reach & grasp positioning
+
 
 
 ## Ways to control the Robot
